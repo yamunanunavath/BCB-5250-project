@@ -1,2 +1,3 @@
-# BCB-5250-project
-Assignment scripts
+# Deep Learning–Based Gene Prediction for Alzheimer’s
+Disease
+
