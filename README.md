@@ -1,3 +1,2 @@
-# Deep Learning–Based Gene Prediction for Alzheimer’s
-Disease
+# Deep Learning–Based Gene Prediction for Alzheimer’s Disease
 
