@@ -117,7 +117,7 @@ This integrative approach demonstrates that deep learning can effectively captur
 
 ## 📬 Contact
 
-Yamuna Nunavath
+Yamuna Nunavath, 
 Graduate Student, Saint Louis University
 📧 yamuna.nunavath@slu.edu
 📍 St. Louis, MO
