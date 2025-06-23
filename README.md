@@ -110,14 +110,6 @@ enrich_result <- enrichGO(gene = top_genes, OrgDb = org.Hs.eg.db, keyType = "SYM
 
 ```
 
-## 📁 Repository Structure
-├── README.md                 # Project overview
-├── AD_Gene_Prediction.Rmd    # Full analysis in R Markdown
-├── ML-and-DL.html            # HTML report of model results
-├── Alzheimer_Paper.pdf       # Manuscript-style report
-├── ad_gwas_snps_filtered.tsv # SNP-level data
-├── DISEASES_Summary_*.tsv    # Known AD gene annotations
-
 
 ## 🧠 Biological Implications
 
